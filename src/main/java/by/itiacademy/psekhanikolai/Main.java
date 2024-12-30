@@ -13,5 +13,6 @@ public class Main {
         System.out.println(city);
         city.set(2,"Linz");
         System.out.println(city);
+        System.out.println(Util.cityMax(city));
     }
 }
