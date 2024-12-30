@@ -14,5 +14,6 @@ public class Main {
         city.set(2,"Linz");
         System.out.println(city);
         System.out.println(Util.cityMax(city));
+        System.out.println(Util.cityMin(city));
     }
 }
