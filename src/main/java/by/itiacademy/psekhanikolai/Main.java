@@ -11,5 +11,7 @@ public class Main {
         city.add("Munchen");
         city.add("Salzburg");
         System.out.println(city);
+        city.set(2,"Linz");
+        System.out.println(city);
     }
 }
